@@ -1,0 +1,26 @@
+{
+  "noticias": [
+    {
+      "titulo": "Temporada 3: El Reino Renace",
+      "etiqueta": "Actualización",
+      "fecha": "2026-10-06",
+      "texto": "Nuevos mundos, misiones, recompensas y muchas sorpresas te esperan en NeverLand.",
+      "imagen": "noticias/noticia1.jpg"
+    },
+    {
+      "titulo": "Evento Aventura Celestial",
+      "etiqueta": "Evento",
+      "fecha": "2026-10-03",
+      "texto": "Explora islas legendarias, completa desafíos y consigue recompensas exclusivas.",
+      "imagen": "noticias/noticia2.jpg"
+    },
+    {
+      "titulo": "¡Únete a nuestro Discord!",
+      "etiqueta": "Comunidad",
+      "fecha": "2026-10-01",
+      "texto": "Conoce a la comunidad, participa en eventos y no te pierdas ninguna novedad.",
+      "imagen": "noticias/noticia3.jpg",
+      "enlace": ""
+    }
+  ]
+}
